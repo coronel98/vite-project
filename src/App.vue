@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="CITP 4316" />
+  <HelloWorld msg="CITP 4316 Advanced Web Design" />
 </template>
 
 <style scoped>
